@@ -1,0 +1,2 @@
+wait.until(expectedcondition.elementToBeVisible(By.class
+(JavaScriptExecutor)driver.executeScript.executeScript("arguments[0].scrollIntoView(true)",element).click();
